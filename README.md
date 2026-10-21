@@ -1,10 +1,12 @@
-# Reddit Account Generator and Verifyer
+# Reddit Account Generator and Verifier
 
 Very cool. Made by mars
 
+**This was made back in 2022 for r/place, a Reddit event where users can place pixels on a huge virtual canvas. This tool was used to speed up the creation of accounts, for the purpose of placing pixels faster. It is unlikely this tool works now.
+
 <br>
 
-**Instalation**
+**Installation**
 
 pip install selenium webdriver-manager
 
